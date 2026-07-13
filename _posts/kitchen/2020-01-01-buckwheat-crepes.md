@@ -30,4 +30,4 @@ categories:
 * While frying the crepes, blanch asparagus and thinly cut red pepper and onion.
 * Once all the crepes are ready, put one of them on the pan, add cheese and allow it to melt a tiny bit. Transfer to a plate, top with asparagus, red pepper and onion. Drizzle with balsamic vinegar.
 
-**Notes:** They are equally good as a [dessert](/kitchen/buckwheat-crepes-sweet/).
+**Notes:** They are equally good as a dessert, for example with honey and cocoa nibs.
