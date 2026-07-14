@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Argentina
-meta_description: 
 header: no
 categories:
     - travel

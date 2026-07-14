@@ -1,8 +1,8 @@
 ---
 layout: default
+permalink: "/thoughts/"
 title: "What I'm thinking:"
 meta_title: "My thoughts"
-permalink: "/thoughts/"
 header: no
 widgets:
 - url: /thoughts/orchids/
@@ -13,7 +13,6 @@ widgets:
   image: main-phd.jpg
   title: <a href="/thoughts/phd-survival-guide/" target="_self">PhD survival guide</a>
   dates: Feb 2020
-
 ---
 
 {% include _widget_grid_layout.html widgets=page.widgets articles_per_row=2 %}

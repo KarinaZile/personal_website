@@ -1,11 +1,9 @@
 ---
 layout: default
 title: South Africa
-meta_description: 
 header: no
 categories:
     - travel
-
 ---
 
 ## Reasons to go:

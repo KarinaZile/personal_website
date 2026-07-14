@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Uzbekistan
-meta_description: 
 header: no
 categories:
     - travel

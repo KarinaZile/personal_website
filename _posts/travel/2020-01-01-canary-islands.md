@@ -1,11 +1,9 @@
 ---
 layout: default
-subheadline: 
 title: Canary islands
 header: no
 categories:
     - travel
-
 ---
 
 ### Reasons to go:

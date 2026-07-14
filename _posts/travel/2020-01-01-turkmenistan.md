@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Turkmenistan
-meta_description: 
 header: no
 categories:
     - travel

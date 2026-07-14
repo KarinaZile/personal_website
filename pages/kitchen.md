@@ -1,8 +1,8 @@
 ---
 layout: default
+permalink: "/kitchen/"
 title: "Karina's recipe library:"
 meta_title: "Kitchen notes"
-permalink: "/kitchen/"
 header: no
 widgets:
 - url: /kitchen/protein/
@@ -14,7 +14,6 @@ widgets:
 - url: /kitchen/carb/
   image: food-carb.jpg
   title: <a href="/kitchen/carb/" target="_self">Carb-forward</a>
-
 - url: /kitchen/dessert/
   image: food-dessert.jpg
   title: <a href="/kitchen/dessert/" target="_self">Dessert</a>

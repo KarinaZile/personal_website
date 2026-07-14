@@ -1,7 +1,6 @@
 ---
 layout: default
 title: South Korea
-meta_description: 
 header: no
 categories:
     - travel

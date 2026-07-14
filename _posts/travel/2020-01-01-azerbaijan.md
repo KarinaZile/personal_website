@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Azerbaijan
-meta_description: 
 header: no
 categories:
     - travel

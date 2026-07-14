@@ -5,7 +5,6 @@ homepage: true
 title: Hi! I'm Karina.
 slim: true
 header:
-  title: ""
   image_fullwidth: main.jpg
 ---
 

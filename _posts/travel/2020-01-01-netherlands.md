@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Netherlands
-meta_description: 
 header: no
 categories:
     - travel

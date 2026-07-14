@@ -1,13 +1,12 @@
 ---
 layout: default
+permalink: "/motivation/"
 title: "My motivation letter"
 meta_title: "Karina's motivation letter"
-permalink: "/motivation/"
+slim: true
 header: no
 image:
     title: main-kz.jpg
-categories:
-    - notes
 ---
 
 After finishing my PhD, I was eager to get my hands on messy real world problems. Back then the waste management sector seemed to have the highest ratio of GHG emissions to the amount of attention the sector was getting. And since working on landfills didn't sound like a glamorous career choice, I decided this was exactly the area where I could make the most impact. 

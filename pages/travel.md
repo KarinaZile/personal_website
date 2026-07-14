@@ -1,10 +1,8 @@
 ---
 layout: default
 permalink: "/travel/"
-subheadline:
 title: "Karina's travel notes:"
 meta_title: "Travel notes"
-teaser:
 header: no
 widgets:
 - url:
@@ -36,7 +34,7 @@ widgets:
   title: <a href="/travel/bolivia/" target="_self">8. Bolivia</a>
 - url:
   image: city-sarajevo.jpg
-  title: 9. Bosnia and Herzogovina
+  title: 9. Bosnia & Herzogovina
 - url: /travel/bulgaria/
   image: country-bulgaria.jpg
   title: <a href="/travel/bulgaria/" target="_self">10. Bulgaria</a>

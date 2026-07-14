@@ -1,9 +1,8 @@
 ---
 layout: default
+permalink: "/goals/"
 title: "What I'm doing:"
 meta_title: "My goals"
-permalink: "/goals/"
-meta_description:
 header: no
 widgets:
 - url: /motivation/
