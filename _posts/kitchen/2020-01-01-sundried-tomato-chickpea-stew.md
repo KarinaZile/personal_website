@@ -34,7 +34,7 @@ categories:
 * Dice the onion.
 * Pre-heat a generous splash of olive oil in a Dutch oven. Add in the onion and saute them for a bit on medium heat, stirring occasionally. 
 * Chop the sundried tomatoes into small pieces. Place them in a small bowl and add in tamari soy sauce and tomato paste. 
-* Add the garlic to the onions through the garlic press. Stir it until it smells amazing, then add a splash of water and the spice mix. Stir a bit more and then add the content of the sundried tomato bowl. Stir until the tomato paste develops a rust colour.  Whenever things start sticking to the bottom of the pot, add a splash of water.
+* Add the garlic to the onions through the garlic press. Stir it until it smells amazing, then add a splash of water and the spice mix. Stir a bit more and then add the content of the sundried tomato bowl. Stir until the tomato paste develops a rust colour. Whenever things start sticking to the bottom of the pot, add a splash of water.
 * Once the tomato paste looks cooked, add the can of coconut milk and nutritional yeast flakes. Stir to combine and leave it simmering on low heat.
 * Meanwhile, prepare the chickpeas (defrost or drain from the cans) and the kale (de-stem and then chop it finely). 
 * Add the chickpeas and the kale to the pot. Give the kale time to soften a bit.
