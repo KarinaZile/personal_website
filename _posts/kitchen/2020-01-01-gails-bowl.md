@@ -16,7 +16,6 @@ categories:
 * 1 red onion
 * 3 cloves of garlic (about 15g)
 * 3 sundried tomatoes in oil (about 30g)
-* olive oil
 * 30g tomato paste
 * 1 teaspoon smoked paprika
 * 0.5 teaspoon Kashmiri chilli powder
@@ -24,7 +23,7 @@ categories:
 * 400g can of tomatoes
 * 10g tamari soy sauce
 <nbsp></nbsp>
-* 10g shaoxing rice vinegar
+* 15g shaoxing rice vinegar
 * strong mature goat cheese
 * delicate cruciferous greens (watercress, rocket, etc.)
 
