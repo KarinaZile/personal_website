@@ -167,9 +167,9 @@ widgets:
 - url: /travel/south-korea/
   image: country-south-korea.jpg
   title: <a href="/travel/south-korea/" target="_self">51. South Korea</a>
-- url: /travel/canary-islands/
+- url: /travel/spain/
   image: country-spain.jpg
-  title: <a href="/travel/canary-islands/" target="_self">52. Spain</a>
+  title: <a href="/travel/spain/" target="_self">52. Spain</a>
 - url:
   image: country-sweden.jpg
   title: 53. Sweden
