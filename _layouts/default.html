@@ -21,7 +21,7 @@ layout: compress
 				<header>
 					{% if page.image.title %}
 					<figure>
-						<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
+						<img src="{{ site.urlimg }}{{ page.image.title }}" width="970px" alt="{{ page.title | escape_once }}" itemprop="image">
 
 						{% if page.image.caption_url and page.image.caption %}
 						<figcaption class="text-right">
@@ -52,10 +52,7 @@ layout: compress
 				</div>
 			</article>
 		</div>
-	</div><!-- /.row -->
-
-
-
+	</div>
 
 	{% unless page.skip_boilerplate %}
 	{% include _footer.html %}
@@ -65,7 +62,7 @@ layout: compress
 
 	{% if page.header.image_fullwidth %}
 	<script>
-		$("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}");
+		$("#masthead").backstretch("{{ site.urlimg }}{{ page.header.image_fullwidth }}", { fade: 200 });
 	</script>
 	{% endif %}
 </body>
